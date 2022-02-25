@@ -1,3 +1,5 @@
+# This project is currently only available in the Dutch language. If possible help us translate this project to English.
+
 # Solar-ESP
 ![Data-flow](Pictures/BD01_Predictive_Maintenance_Poster.png)
 
@@ -19,5 +21,7 @@ De MQTT subscriber is de schakel tussen de MQTT-broker en de database. Zodra er 
 ## Van database tot data scientist
 De gebruikte databaseserversoftware heet OpenSearch (gebasseerd op ElasticSearch). Deze database is erg goed geïntegreerd met een van de meeste belangrijke data science tools: Python. De speciale python library genaamd “eland”1 laat haar gebruikers de data uit de OpenSearch-database virtueel openen. Virtueel als in enkel de data die op dat moment nodig is wordt uit de database gehaald. Dit vermindert de druk op de database en geeft een snellere response uit. Zodra de datascientist de data heeft opgehaald, kan deze direct worden doorgezet naar diverse machine learning en statistische analyse Python libraries.
 
+Voor meer informatie zie: [ontwerp](Documentation/Ontwerp.pdf)
+
 # Gebruik
-Zie [handleiding](Documentation/Handleiding.docx)
+Zie: [handleiding](Documentation/Handleiding.pdf).
