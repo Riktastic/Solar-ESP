@@ -1,0 +1,23 @@
+{
+    "general": {
+        "hostname": "Solarpanel0001"
+    },  
+    "wifi": {
+        "ssid": "MySSID",
+        "password": "MyPassword",
+        "dhcp": true,
+        "ipaddress": "",
+        "subnetmask": "",
+        "gateway": "",
+        "dns": "1.1.1.1",
+        "ntp": "pool.ntp.org",
+        "timezone": "CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"
+    },
+    "mqtt": {
+        "server": "myhostname.local",
+        "port": 1883 ,
+        "username": "solarpanel0001",
+        "password": "secret-password",
+        "topic": "solarpanelanalytics"
+    }
+}
