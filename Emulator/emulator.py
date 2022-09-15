@@ -5,9 +5,7 @@ print("""
 #
 # - For: Zuyd Hogeschool
 # - Authors: 
-#     - Rik Heijmann,
-#     - Dylan Giesberts,
-#     - Jordy Clignet.
+#     - https://Github.com/Riktastic
 #
 # - Version: 1.0 (9 june 2021)
 #
